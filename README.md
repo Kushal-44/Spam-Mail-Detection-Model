@@ -1,4 +1,4 @@
-✨ **Spam Mail Detection Model** ✨
+Spam Mail Detection Model 
 
 📌 **Project Overview**  
 This project implements a spam email classifier using Python, NLP, and machine learning techniques. The model classifies emails as **spam (0)** or **ham (1)** using Logistic Regression and TfidfVectorizer.
